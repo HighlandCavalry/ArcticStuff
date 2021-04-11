@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				 "viper/MW/attachments/compensator_pstl01/attachment_vm_compensator_pstl01_c"
+	"$bumpmap"				 "viper/MW/attachments/compensator_pstl01/attachment_vm_compensator_pstl01_n"
+	"$phongexponenttexture"			 "viper/MW/attachments/compensator_pstl01/attachment_vm_compensator_pstl01_e"
+
+	"$phong" 				"1"
+	"$phongboost" 				"3"
+	"$phongalbedotint"				 "1"
+	"$phongexponent"				"24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .05 .05 .05 ]"
+	"$envmapfresnel"				".025"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

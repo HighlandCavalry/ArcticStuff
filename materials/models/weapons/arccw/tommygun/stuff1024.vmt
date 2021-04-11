@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    "$baseTexture" "models\weapons\arccw\tommygun\stuff1024"
+    "$bumpmap" "models\weapons\arccw\tommygun\stuff1024_normal"
+}

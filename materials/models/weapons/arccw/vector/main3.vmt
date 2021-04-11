@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\arccw\vector\main3"
+	"$bumpmap" "models\weapons\arccw\vector\main3_normal"
+	 "$phong" "0"
+
+}

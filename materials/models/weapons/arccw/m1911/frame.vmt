@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\arccw\m1911\frame"
+	"$bumpmap" "models\weapons\arccw\m1911\frame norm"
+}
+

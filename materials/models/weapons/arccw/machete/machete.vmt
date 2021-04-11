@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\arccw\machete\machete_cr45h"
+	"$bumpmap" "models\weapons\arccw\machete\machete_cr45h_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" "0.9"
+
+	"$phong" "1"
+	"$phongboost" "0.2"
+                "$phongexponent" "42"
+	"$phongfresnelranges""[1 9 6]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapconstrast" "1"
+}

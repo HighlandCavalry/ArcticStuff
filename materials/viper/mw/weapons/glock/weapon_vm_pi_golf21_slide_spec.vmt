@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				 "viper/MW/weapons/glock/textures/weapon_vm_pi_golf21_body_s"
+	"$bumpmap"				 "viper/MW/weapons/glock/textures/weapon_vm_pi_golf21_body_n"
+	"$phongexponenttexture"			 "viper/MW/weapons/glock/textures/weapon_vm_pi_golf21_body_e"
+                "$color2""[0.25 0.25 0.25]"
+                "$additive""1"
+
+	"$phong" 					"1"
+	"$phongexponent"					"10"
+	"$phongboost"					"1"
+
+	"$phongalbedotint" 1
+	"$phongfresnelranges"			"[1 1.05 1.25]"
+}

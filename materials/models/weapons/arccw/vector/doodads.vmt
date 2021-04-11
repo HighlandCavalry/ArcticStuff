@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\arccw\vector\doodads"
+	"$bumpmap" "models\weapons\arccw\vector\doodads_normal"
+	"$phong" "0"
+}

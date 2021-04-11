@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/attachments/pistol_rail/attachment_vm_minireddot_mount_mike1911_c"
+	"$bumpmap"				"viper/MW/attachments/pistol_rail/attachment_vm_minireddot_mount_mike1911_n"
+	"$phongexponenttexture"			"viper/MW/attachments/pistol_rail/attachment_vm_minireddot_mount_mike1911_e"
+
+	"$color2"					"[ .95 .95 .95 ]"
+	"$phong" 				"1"
+	"$phongboost" 				"5"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				 "24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .025 .025 .025 ]"
+	"$envmapfresnel"				".025"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

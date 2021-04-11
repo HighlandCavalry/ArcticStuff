@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				 "viper/MW/weapons/m9/base/weapon_vm_pi_mike9_ammo_c"
+	"$bumpmap"				 "viper/MW/weapons/m9/base/weapon_vm_pi_mike9_ammo_n"
+	"$phongexponenttexture"			 "viper/MW/weapons/m9/base/weapon_vm_pi_mike9_ammo_e"
+
+	"$phong" 				"1"
+	"$phongboost" 				"3"
+	"$phongalbedotint"				 "1"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .35 .25 .15 ]"
+	"$envmapfresnel"				".15"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

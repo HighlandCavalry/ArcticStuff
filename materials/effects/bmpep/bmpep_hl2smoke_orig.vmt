@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesVertexColorAlphaBlend
+	"$basetexture" "effects/BMPEP/BMPEP_HL2Smoke_Orig"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$translucent" "1"
+	"$no_fullbright" 1
+	$depthblend 1
+	$depthblendscale 1000
+	"srgb?$alpha" ".27"
+	//"!srgb?$alpha" "1" 
+	
+}

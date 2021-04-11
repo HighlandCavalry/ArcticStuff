@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/attachments/silencer04/attachment_vm_silencer04_c"
+	"$bumpmap"				"viper/MW/attachments/silencer04/attachment_vm_silencer04_n"
+	"$phongexponenttexture"			"viper/MW/attachments/silencer04/attachment_vm_silencer04_e"
+
+	"$color2"					"[ .95 .95 .95 ]"
+	"$phong" 				"1"
+	"$phongboost" 				"5"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				 "24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .025 .025 .025 ]"
+	"$envmapfresnel"				".015"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

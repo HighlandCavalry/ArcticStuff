@@ -1,0 +1,10 @@
+unlitgeneric
+{
+$basetexture "effects/BMPEP/BMPEP_MuzzleSparkMix"
+$OVERBRIGHTFACTOR 1
+//$BRIGHTNESSBIASFACTOR 0.1
+"$additive" "1"
+"$vertexcolor" 1
+"$vertexalpha" 1
+$HDRCOLORSCALE 4
+}

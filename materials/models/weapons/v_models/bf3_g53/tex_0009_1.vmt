@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/bf3_g53/Tex_0009_1"
+			//CSS MODELS
+        $bumpmap   "models/weapons/v_models/bf3_g53/normal"
+        $phongexponenttexture  "models/weapons/v_models/bf3_g53/spick_lol"
+        $phongexponent "30"
+       
+        $normalmapalphaenvmapmask   "1"
+        $envmaptint   "[0.1 0.1 0.1]"
+        $envmapfresnel "1" // Advanced envmap reflections
+ 
+        $phong  "1"
+        $phongboost  "3"      //tone down to decrease specular reflections
+        $phongfresnelranges     "[0.25 0.75 1.00]"
+        $phongalbedotint  "1"
+        $nocull  1
+
+}

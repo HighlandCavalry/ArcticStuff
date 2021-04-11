@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "effects/BMPEP/BMPEP_smoketrail"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	 $additive 1
+}

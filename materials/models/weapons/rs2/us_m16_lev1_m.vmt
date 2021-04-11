@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/weapons/rs2/US_M16_lev1_M"
+$nocull 1
+}

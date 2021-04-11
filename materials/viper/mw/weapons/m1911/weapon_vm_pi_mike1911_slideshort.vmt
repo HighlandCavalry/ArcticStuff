@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" "viper/MW/weapons/m1911/textures/weapon_vm_pi_mike1911_slideshort_c"
+	"$bumpmap" "viper/MW/weapons/m1911/textures/weapon_vm_pi_mike1911_slideshort_n"
+	"$phongexponenttexture"	"viper/MW/weapons/m1911/textures/weapon_vm_pi_mike1911_slideshort_e"
+	"$color2"					"[ .8 .8 .8]"
+
+	"$phong" 				"1"
+	"$phongboost" 				"30"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"90"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap"
+	"$envmaptint"				"[ .1 .1 .1 ]"
+	"$envmapfresnel"				".25"
+	"$basemapalphaenvmapmask"		"1"
+}

@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				 "viper/MW/attachments/laser_pstl04/attachment_vm_laser_pstl04_c"
+	"$bumpmap"				 "viper/MW/attachments/laser_pstl04/attachment_vm_laser_pstl04_n"
+	"$phongexponenttexture"			 "viper/MW/attachments/laser_pstl04/attachment_vm_laser_pstl04_e"
+	"$color2"					"[  .7 .7 .7 ]"
+
+	"$phong" 				"1"
+	"$phongboost" 				"5"
+	"$phongalbedotint"				 "1"
+	"$phongexponent"				"24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .05 .05 .05 ]"
+	"$envmapfresnel"				".025"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "viper/MW/weapons/m1911/textures/operator_slide_c"
+	"$bumpmap" "viper/MW/weapons/m1911/textures/operator_slide_n"
+	"$mraotexture"   "viper/MW/weapons/m1911/textures/operator_slide_e"
+
+	"$phong" 				"1"
+	"$phongboost" 				".2"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"90"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap"
+	"$envmaptint"				"[ .1 .1 .1 ]"
+	"$envmapfresnel"				".25"
+	"$basemapalphaenvmapmask"		"1"
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/bf4_an94/Tritium_sight"
+	$selfillum 1
+}

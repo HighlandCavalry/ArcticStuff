@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture"				"viper/MW/weapons/deagle/textures/weapon_vm_pi_decho_barrel02_c"
+	"$bumpmap" 				"viper/MW/weapons/deagle/textures/weapon_vm_pi_decho_barrel02_n"
+	"$phongexponenttexture"   			"viper/MW/weapons/deagle/textures/weapon_vm_pi_decho_barrel02_e"
+	"$color2"					"[ 1 1 1 ]"
+
+	"$phong" 				"1"
+	"$phongboost" 				"7"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"50"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .2 .2 .2 ]"
+	"$normalmapalphaenvmapmask"		"1"
+}
+
+
+
+
+
+
+
+

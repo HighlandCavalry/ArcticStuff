@@ -1,0 +1,19 @@
+"SpriteCard"
+{
+        $basetexture "sprites/animglow01-"
+	$vertexcolor 1
+	$vertexalpha 1
+	$additive 1
+	$DEPTHBLEND 1
+	$overbrightfactor 3
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 15
+		}
+
+	}
+}

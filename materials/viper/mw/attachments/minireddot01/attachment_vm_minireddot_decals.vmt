@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/attachments/minireddot01/attachment_vm_minireddot_decals_c"
+	"$translucent"				"1"
+	"$alphatest" 				"1"
+	"$color2" 				"[ .7 .7 .7 ]"  
+}
+

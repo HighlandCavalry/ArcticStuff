@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\weapons\arccw\atts\cmag"
+    "$envmap" "env_cubemap"
+    "$envmapmask" "models\weapons\arccw\atts\cmag_ref"
+}  

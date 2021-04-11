@@ -1,0 +1,12 @@
+"SpriteCard"
+{
+	"$basetexture" "effects\lensflare\interdimensional_4_ray"
+	$vertexcolor 1
+	$vertexalpha 1
+	$translucent 1
+	$additive 1
+	$overbrightfactor 15
+	$ignorez 1
+	$nofog 1
+	$depthblend 0
+}

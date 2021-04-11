@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "viper/MW/weapons/m1911/textures/slide_c2"
+	$bumpmap "viper/MW/weapons/m1911/textures/slide_n"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.10 0.10 0.10]"
+	$envmapfresnel 5
+
+	$phong 1
+	$phongexponenttexture "viper/MW/weapons/m1911/textures/slide_e"
+	$phongfresnelranges "[2 4 6]"
+	$phongalbedotint 1
+	$phongboost 10
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 1
+
+	$color2 "[0.50 0.50 0.50]"
+	$blendtintbybasealpha 1
+}

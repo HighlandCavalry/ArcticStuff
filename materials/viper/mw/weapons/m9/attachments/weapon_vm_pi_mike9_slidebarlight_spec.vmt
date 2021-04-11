@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				 "viper/MW/weapons/m9/attachments/weapon_vm_pi_mike9_slidebarlight_s"
+	"$bumpmap"				 "viper/MW/weapons/m9/attachments/weapon_vm_pi_mike9_slidebarlight_n"
+	"$phongexponenttexture"			 "viper/MW/weapons/m9/attachments/weapon_vm_pi_mike9_slidebarlight_e"
+                "$color2""[0.6 0.6 0.6]"
+                "$additive""1"
+
+	"$phong" 					"1"
+	"$phongexponent"					"10"
+	"$phongboost"					"2"
+
+	"$phongalbedotint" 1
+	"$phongfresnelranges"			"[1 1.05 1.25]"
+}

@@ -1,0 +1,9 @@
+unlitgeneric
+{
+$basetexture "effects/BMPEP/BMPEP_tracers"
+$additive 1
+$HDRCOLORSCALE 5
+$overbrightfactor 5
+$DEPTHBLEND 1
+$DEPTHBLENDSCALE 0.5
+}

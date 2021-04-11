@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/weapons/glock/textures/weapon_vm_pi_golf21_mag_c"
+	"$bumpmap"				 "viper/MW/weapons/glock/textures/weapon_vm_pi_golf21_mag_n"
+	"$phongexponenttexture"			 "viper/MW/weapons/glock/textures/weapon_vm_pi_golf21_mag_e"
+
+	"$phong" 				"1"
+	"$phongboost" 				"50"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"5"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap"
+	"$envmaptint"				"[ .3 .3 .3 ]"
+	"$envmapfresnel"				".15"
+	"$basemapalphaenvmapmask"		"1"
+}

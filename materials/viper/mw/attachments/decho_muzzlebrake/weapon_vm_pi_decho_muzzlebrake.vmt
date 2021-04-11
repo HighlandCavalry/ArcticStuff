@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				 "viper/MW/attachments/decho_muzzlebrake/weapon_vm_pi_decho_muzzlebrake_c"
+	"$bumpmap"				 "viper/MW/attachments/decho_muzzlebrake/weapon_vm_pi_decho_muzzlebrake_n"
+	"$phongexponenttexture"			 "viper/MW/attachments/decho_muzzlebrake/weapon_vm_pi_decho_muzzlebrake_e"
+	"$color2"					"[ 0 0 0 ]"
+
+	"$phong" 				"1"
+	"$phongboost" 				"3"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"50"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmapfresnel"				".15"
+	"$envmaptint"				"[ .2 .2 .2 ]"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

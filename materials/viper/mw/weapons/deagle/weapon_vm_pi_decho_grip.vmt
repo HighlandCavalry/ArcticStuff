@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" "viper/MW/weapons/deagle/textures/grip_c"
+	"$bumpmap" "viper/MW/weapons/deagle/textures/grip_n"
+	"$phongexponenttexture"   "viper/MW/weapons/deagle/textures/grip_mrao"
+
+	"$phong" 				"1"
+	"$phongboost" 				"0.5"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+}

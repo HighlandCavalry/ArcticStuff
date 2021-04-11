@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/attachments/silencerpstl/attachment_vm_silencerpstl_c"
+	"$bumpmap"				"viper/MW/attachments/silencerpstl/attachment_vm_silencerpstl_n"
+	"$phongexponenttexture"			"viper/MW/attachments/silencerpstl/attachment_vm_silencerpstl_e"
+
+	"$detail"					"viper/MW/attachments/silencerpstl/attachment_vm_silencerpstl_d"
+	"$detailblendfactor" 			".3"
+	"$detailblendmode" 			"1"
+	"$detailscale"				"1"
+
+	"$color2"					"[ .95 .95 .95 ]"
+	"$phong" 				"1"
+	"$phongboost" 				"5"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				 "24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .025 .025 .025 ]"
+	"$envmapfresnel"				".1"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

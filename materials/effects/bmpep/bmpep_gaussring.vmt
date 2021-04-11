@@ -1,0 +1,10 @@
+"SpriteCard"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "particle\Particle_Ring_Wave_10"
+	"$additive" "1"
+	"$translucent" "1"
+	$overbrightfactor 3
+        $HDRCOLORSCALE 3
+	$DEPTHBLEND 1
+}

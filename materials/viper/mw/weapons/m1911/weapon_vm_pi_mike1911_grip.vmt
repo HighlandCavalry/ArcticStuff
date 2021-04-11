@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/weapons/m1911/textures/grip_c"
+	"$bumpmap" 				"viper/MW/weapons/m1911/textures/grip_n"
+	"$phongexponenttexture"			"viper/MW/weapons/m1911/textures/receiver_e"
+
+	"$color2"					"[ .8 .8 .8  ]"
+	"$blendtintbybasealpha"			"1"
+
+	"$phong" 				"1"
+	"$phongboost" 				"1"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"24"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap"
+	"$envmaptint"				"[ .05 .05 .05 ]"
+	"$envmapfresnel"				".15"
+	"$normalmapalphaenvmapmask"		"1"
+
+}

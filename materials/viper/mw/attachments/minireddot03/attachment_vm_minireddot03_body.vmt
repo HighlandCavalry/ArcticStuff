@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+
+//Textures
+	"$basetexture" 				"viper/MW/attachments/minireddot03/attachment_vm_minireddot03_body_c"
+	"$bumpmap"				"viper/MW/attachments/minireddot03/attachment_vm_minireddot03_body_n"
+	"$phongexponenttexture"			"viper/MW/attachments/minireddot03/attachment_vm_minireddot03_body_e"
+	"$color2"					"[ .95 .95 .95 ]"
+	"$phong" 				"1"
+	"$phongboost" 				"15"
+	"$phongalbedotint"				 "1"
+	"$phongexponent" 				"45"
+	"$phongfresnelranges" 			"[1 5 22.5]"
+
+//Envmap
+	"$envmap" 				"env_cubemap" 
+	"$envmaptint"				"[ .025 .025 .025 ]"
+	"$envmapfresnel"				".3"
+	"$normalmapalphaenvmapmask"		"1"
+}
+

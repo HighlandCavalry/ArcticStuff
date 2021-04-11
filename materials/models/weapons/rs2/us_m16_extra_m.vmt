@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/weapons/rs2/US_M16_extra_M"
+"$bumpmap" "models/weapons/rs2/US_M16_extra_M_N"
+$nocull 1
+
+
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.2 4 1]"
+
+	"360?$color2" "[ 0.4 0.4 0.4 ]"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/arccw/uspmatch/sights_worn"
+       
+	"$selfillum" 1
+}

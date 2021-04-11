@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"viper/MW/weapons/m1911/textures/weapon_vm_pi_mike1911_magext_s"
+	"$bumpmap" 				"viper/MW/weapons/m1911/textures/weapon_vm_pi_mike1911_magext_n"
+	"$phongexponenttexture"   			"viper/MW/weapons/m1911/textures/weapon_vm_pi_mike1911_magext_e"
+                "$color2""[0.3 0.3 0.3]"
+                "$additive""1"
+
+	"$phong" 					"1"
+	"$phongexponent"					"10"
+	"$phongboost"					"1"
+
+	"$phongalbedotint" 1
+	"$phongfresnelranges"			"[1 1.05 1.25]"
+}
